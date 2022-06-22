@@ -1,0 +1,30 @@
+
+.title{
+    font-weight: 700;
+    font-size: 55px;
+}
+
+.list{
+    display: flex;
+    justify-content: center;
+margin-top: 20px;
+
+}
+
+.item{
+    display: flex;
+    flex-direction: column;
+    width: 60px;
+outline: 1px solid grey;
+    height: 60px;
+}
+
+.label{
+   margin: 0 auto;
+   margin-bottom: 10px;
+   margin-top: 5px;
+}
+
+.percentage{
+    margin: 0 auto;
+}

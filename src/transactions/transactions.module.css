@@ -1,0 +1,19 @@
+.transaction{
+    width: 100%;
+    text-align: center;
+}
+
+.thead{
+    height: 40px;
+    background-color: teal;
+    color: #ffffff;
+}
+
+
+.tr{
+   background-color:blanchedalmond;
+}
+
+.td{
+    border: 1px solid red;
+}

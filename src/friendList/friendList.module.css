@@ -1,0 +1,29 @@
+.list{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 10px
+}
+
+.item{
+    display: flex;
+    align-items: center;
+    background-color: #818181;
+    width: 300px;
+}
+
+.status{
+    display: block;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+}
+
+.avatar{
+    margin-right: 15px;
+}
+
+.name{
+ font-weight: 700;
+}
